@@ -1,0 +1,6 @@
+.env
+*.log
+processed_cache.json
+processed_newsletters_*.jsonl
+training_data_*.json
+__pycache__/
